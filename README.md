@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Ngoc-Khanh! 👋
 
-<!--
-**Ngoc-Khanh/Ngoc-Khanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer with a love for coding and problem-solving. I enjoy learning new technologies and applying them to real-world projects.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** Python, JavaScript, Java, C++
+- **Web Development:** HTML, CSS, React, Node.js
+- **Database Management:** MySQL, MongoDB
+- **Tools and Technologies:** Git, Docker, Kubernetes, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Here are a few projects I've worked on:
+1. **[Project Name](link-to-project):** A brief description of what the project does and the technologies used.
+2. **[Project Name](link-to-project):** A brief description of what the project does and the technologies used.
+3. **[Project Name](link-to-project):** A brief description of what the project does and the technologies used.
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ngoc-khanh)
+- [Twitter](https://twitter.com/ngoc_khanh)
+- [Email](mailto:ngoc.khanh@example.com)
+
+## GitHub Stats
+![Ngoc-Khanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngoc-Khanh&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngoc-Khanh&layout=compact&theme=radical)
+
+Thank you for visiting my profile! Feel free to explore my repositories and get in touch.
