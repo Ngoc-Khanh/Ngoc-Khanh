@@ -1,7 +1,7 @@
 # Hi there, I'm Ngoc-Khanh! 👋
 
 ## About Me
-I'm a passionate developer with a love for coding and problem-solving. I enjoy learning new technologies and applying them to real-world projects.
+Just... studying. I'm a students :3
 
 ## Skills
 - **Languages:** PHP
