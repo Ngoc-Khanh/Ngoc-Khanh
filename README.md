@@ -18,7 +18,7 @@ Less                  ██████░░░░░░░░░░░░░�
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ngoc-Khanh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&bg_color=00000000" height="150" alt="languages graph"  />
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ngoc-Khanh&locale=en&hide_title=false&layout=compact&langs_count=5&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="GitHub Streak" width="50%" /> -->
 </div>
-&theme=&layout=compact&bg_color=0D1117
+
 ###
 
 <img src="https://raw.githubusercontent.com/Ngoc-Khanh/Ngoc-Khanh/output/snake.svg" alt="Snake animation" />
