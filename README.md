@@ -56,9 +56,9 @@ const krug = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ngoc-Khanh/Ngoc-Khanh/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ngoc-Khanh/Ngoc-Khanh/output/snake.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ngoc-Khanh/Ngoc-Khanh/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/Ngoc-Khanh/Ngoc-Khanh/output/snake-dark.svg" alt="Snake eating my contributions" />
+    <img src="https://raw.githubusercontent.com/Ngoc-Khanh/Ngoc-Khanh/output/snake.svg" alt="Snake eating my contributions" />
   </picture>
 </p>
 
